@@ -1,0 +1,5 @@
+matplotlib
+numpy
+torch
+gym
+mujoco_py
