@@ -1,3 +1,7 @@
+### Goal-Conditioned Generators of Deep Policies
+
+[arxiv](https://arxiv.org/abs/2207.01570)
+
 Install required python packages: 
 ```bash
 pip install -r requirements.txt
